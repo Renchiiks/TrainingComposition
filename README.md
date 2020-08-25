@@ -1,0 +1,3 @@
+# TrainingComposition
+Training
+Adapter Pattern
